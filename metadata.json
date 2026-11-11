@@ -1,0 +1,8 @@
+{
+  "name": "মোল্লা পরিবার - Molla Poribar",
+  "description": "মোল্লা পরিবারের ঐক্য, কল্যাণ ট্রাস্ট, দুই ঈদের উৎসব হিসাব, মাসিক চাঁদা তহবিল ও পারিবারিক সদস্য ডিরেক্টরি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
